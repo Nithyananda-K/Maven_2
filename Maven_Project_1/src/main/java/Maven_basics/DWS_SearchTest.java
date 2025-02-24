@@ -26,6 +26,9 @@ public class DWS_SearchTest {
 		
 //		WebElement subscribeButton = driver.findElement(By.xpath("//input[@value='Search']"));
 //		subscribeButton.click();
+		
+		System.out.println("***");
+		// ***************88
 	}
 }
 
